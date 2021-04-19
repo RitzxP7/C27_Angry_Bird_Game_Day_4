@@ -1,1 +1,2 @@
-# C27_Angry_Bird_Game_Day_4
+# angryBirdsStage2
+Angry Birds stage 2 with Class Inheritance and Images
